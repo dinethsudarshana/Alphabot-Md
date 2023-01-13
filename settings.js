@@ -31,13 +31,13 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.botname = "Black Panther" //namabot kalian
+global.ownername = "dineth auarshana" //nama kalian
+global.myweb = "https://github.com/dinethsudarshana" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.myweb2 = "https://github.com/dinethsudarshana" //bebas
+global.email = "dinethsudarshana03@gmail.com" //bebas
+global.region = "sri lanka" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['62887435047326'] //premium user
 global.owner = ["62887435047326", "622150996855"] //ganti agar fitur owner bisa di gunakan
